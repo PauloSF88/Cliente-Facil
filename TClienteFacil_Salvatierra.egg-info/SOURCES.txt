@@ -1,0 +1,5 @@
+setup.py
+TClienteFacil_Salvatierra.egg-info/PKG-INFO
+TClienteFacil_Salvatierra.egg-info/SOURCES.txt
+TClienteFacil_Salvatierra.egg-info/dependency_links.txt
+TClienteFacil_Salvatierra.egg-info/top_level.txt
